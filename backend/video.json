@@ -1,0 +1,94 @@
+{
+  "videos": [
+    {
+      "id": "video-01",
+      "title": "Morning Momentum",
+      "description": "A quick burst of energy to start the day with purpose.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607763/video-01.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607763/video-01.mp4.jpg",
+      "likes": 1249,
+      "shares": 87
+    },
+    {
+      "id": "video-02",
+      "title": "Small Wins",
+      "description": "A reminder that steady progress is worth celebrating.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607771/video-02.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607771/video-02.mp4.jpg",
+      "likes": 932,
+      "shares": 64
+    },
+    {
+      "id": "video-03",
+      "title": "Creative Break",
+      "description": "Take a short pause and find a fresh perspective.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607805/videos-03.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607805/videos-03.mp4.jpg",
+      "likes": 1567,
+      "shares": 119
+    },
+    {
+      "id": "video-04",
+      "title": "City Rhythms",
+      "description": "A vibrant moment from everyday life in motion.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607757/video-04.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607757/video-04.mp4.jpg",
+      "likes": 2104,
+      "shares": 173
+    },
+    {
+      "id": "video-05",
+      "title": "Weekend Escape",
+      "description": "A little inspiration for your next change of scenery.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607781/video-05.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607781/video-05.mp4.jpg",
+      "likes": 1789,
+      "shares": 141
+    },
+    {
+      "id": "video-06",
+      "title": "Make It Yours",
+      "description": "An invitation to bring your own style to the moment.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607781/videos-06.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607781/videos-06.mp4.jpg",
+      "likes": 1103,
+      "shares": 77
+    },
+    {
+      "id": "video-07",
+      "title": "Golden Hour",
+      "description": "Slow down and enjoy a calm, luminous scene.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607764/video-07.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607764/video-07.mp4.jpg",
+      "likes": 2456,
+      "shares": 204
+    },
+    {
+      "id": "video-08",
+      "title": "Fresh Perspective",
+      "description": "See the familiar from a new and uplifting angle.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607782/video-08.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607782/video-08.mp4.jpg",
+      "likes": 1365,
+      "shares": 98
+    },
+    {
+      "id": "video-09",
+      "title": "Keep Moving",
+      "description": "A motivating clip for staying focused on what matters.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607794/vidoe-09.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607794/vidoe-09.mp4.jpg",
+      "likes": 1987,
+      "shares": 162
+    },
+    {
+      "id": "video-10",
+      "title": "One More Moment",
+      "description": "End the carousel with a memorable final highlight.",
+      "url": "https://res.cloudinary.com/bn5nbctz/video/upload/v1788607838/video-10.mp4.mp4",
+      "thumbnail_url": "https://res.cloudinary.com/bn5nbctz/video/upload/so_0/v1788607838/video-10.mp4.jpg",
+      "likes": 1674,
+      "shares": 126
+    }
+  ]
+}
