@@ -6,7 +6,7 @@ from app.routes.videos import router as videos_router
 
 
 # =========================================================
-# APPLICATION
+# FastAPI Application
 # =========================================================
 
 app = FastAPI(
@@ -20,21 +20,11 @@ app = FastAPI(
 
 
 # =========================================================
-# CORS
+# CORS Configuration
 # =========================================================
 #
-# Local development:
-#   http://localhost:3000
-#   http://localhost:3001
-#   http://127.0.0.1:3000
-#   http://127.0.0.1:3001
-#
-# Production frontend:
-#   https://socially-approved-frontend-5f40.onrender.com
-#
-# IMPORTANT:
-# The production frontend URL must exactly match the
-# browser origin being used by the deployed frontend.
+# Local development frontends
+# + current Render production frontend.
 #
 
 ALLOWED_ORIGINS = [
@@ -45,7 +35,7 @@ ALLOWED_ORIGINS = [
     "http://127.0.0.1:3001",
 
     # Render production frontend
-    "https://socially-approved-frontend-5f40.onrender.com",
+    "https://socially-approved-frontend-6yrm.onrender.com",
 ]
 
 
@@ -59,7 +49,7 @@ app.add_middleware(
 
 
 # =========================================================
-# API ROUTES
+# API Routes
 # =========================================================
 
 app.include_router(videos_router)
@@ -67,7 +57,7 @@ app.include_router(interactions_router)
 
 
 # =========================================================
-# HEALTH CHECK
+# Health Check
 # =========================================================
 
 @app.get(
